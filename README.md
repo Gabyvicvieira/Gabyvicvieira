@@ -1,0 +1,4 @@
+- 👋 Meu nome é Gabrielly
+- Estou estudando na Alura
+- Eu estudo no coegio fazenda velha 
+- Tenho 15 anos 
